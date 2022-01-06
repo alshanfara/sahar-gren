@@ -14,3 +14,38 @@ display:none!important;
 
 margin-left:-37px!important;
 }
+
+
+.ae.fa.chats.label.fa-comment.label-primary {
+    border-radius: 0 0 0 15px!important;
+}
+.ae.fa.label.label-primary.fa-user {
+    border-radius: 0 0 15px!important;
+}
+.ae.fa.label.label-primary.fa-users {
+    border-radius: 0 0 15px!important;
+    margin-left: 5px!important;
+}
+.ae.fa.label.fa-commenting-o.label-warning, .ae.fa.label.label-primary.fa-commenting-o {
+    border-radius: 0 0 0 15px!important;
+}
+.ae.label.label-primary.fa.fa-gear {
+    color: #fff!important;
+    border-radius: 0 0 15px!important;
+    margin-left: 5px!important;
+}
+img.fitimg.fl.u-pic {
+        border-radius: 25px!important;
+
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #707071;
+}
+div#users img.fl.ustat {
+    border: 2px solid #fff;
+    border-radius: 75px 75px 75px 75px;
+    margin: 1;
+    width: 15px!important;
+    height: 15px!important;
+}
+.border, div#tlogins {
+    box-shadow: inset 1px 1px 1px 0 #9494946b, 0 0 2px #9494949e!important;
+}
